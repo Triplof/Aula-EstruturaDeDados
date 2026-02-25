@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1772063235 source:c:\users\felipefurlanfilho\documents\aula01\helloworld\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1772063293 source:c:\users\felipefurlanfilho\documents\aula01\helloworld\alo.c
+	<stdio.h>
+
