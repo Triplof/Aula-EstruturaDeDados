@@ -1,7 +1,5 @@
-#include <stdio.h>
-#include <stdlib.h>
+#include "Alo.h"
 
-void Alo();
 int main()
 {
     Alo();
